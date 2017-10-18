@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35415457D1EAEF9C5A1821ED3B6F365301A1F7E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35415457D1EAEF9C5A1821ED3B6F365301A1F7E4" : 9223372036854775807,
+    "A0A70348AF94C209E8F52F4CE8B75FC1FF60793F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AAE4E2A2-F961-4ACB-A19A-95578B4CB35D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35415457D1EAEF9C5A1821ED3B6F365301A1F7E4" : "PL2701_Libusb_SDK\/",
+    "A0A70348AF94C209E8F52F4CE8B75FC1FF60793F" : "PL2701_Libusb_SDK\/libusb\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Xcode",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Xcode\/Xcode.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ProlificCom\/PL25A1_Libusb_SDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35415457D1EAEF9C5A1821ED3B6F365301A1F7E4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/libusb\/libusb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0A70348AF94C209E8F52F4CE8B75FC1FF60793F"
+    }
+  ]
+}
