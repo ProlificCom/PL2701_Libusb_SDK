@@ -5,7 +5,9 @@ There are four directories under SDK, and each of them is listed below:
 libusb\ - It includes whole libusb v1.0.21 source gotten from the libusb source on GitHub.
 MSVC\ - It includes Visual Studio solution and projects. The built libraries and executable files will be generated and stored under this directory.
 Source\ - It includes all sample codes which cross Windows, Linux, and MAC OS X operating systems. The three sample programs are as follows:
-    listdev: To list PL25A1 device and show its information
+    listdev: To list PL2701 device and show its information
     transmit: To transmit data from sender to receiver
     benchmark:To do performance benchmark for the sender side
 Xcode\ - It includes MAC Xcode workspace and projects.
+
+Keyword: PL2701, PL27A1, PL25A1, 2701, 27A1, 25A1, Host-to-Host, Data link cable, and Ulinq
